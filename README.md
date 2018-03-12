@@ -10,13 +10,13 @@ TGIM (Ramco Systems, Adyar, Chennai, INDIA)
 
 ## Speakers:
 
-1. Mr. Ganesh Kondal
+1. Mr. Ganesh Kondal, Chief Architect, Athena Health
 
 ## Agenda:
 
 A breif discussion on micro-service architecture along with Docker and DC/OS
 
-<!-- ## Credits:
+## Credits:
 
 1. Jennifer George & Vinitha Ramani - For helping us with all meetup related communications to all the people, opening up audience
 
@@ -30,4 +30,4 @@ A breif discussion on micro-service architecture along with Docker and DC/OS
 
 3. IMG Support (Sekar & his team) - For providing us with mic, projector and necessary technical support.
 
-4. Audience - For attending the meetup and being very interactive with us all :-) -->
+4. Audience - For attending the meetup and being very interactive with us all :-)
